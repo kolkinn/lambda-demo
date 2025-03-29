@@ -1,5 +1,6 @@
 <Project>
     <PropertyGroup>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <NoWarn>CS8669</NoWarn>
     </PropertyGroup>
 </Project>
