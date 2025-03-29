@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnotationsTest", "AnnotationsTest\src\AnnotationsTest\AnnotationsTest.csproj", "{B63872AB-D29A-42A7-B412-F250D4CED894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "sam-app\src\HelloWorld\HelloWorld.csproj", "{A2B6E2F9-17AB-4ACC-B33B-AFE1CDF36CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63872AB-D29A-42A7-B412-F250D4CED894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63872AB-D29A-42A7-B412-F250D4CED894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63872AB-D29A-42A7-B412-F250D4CED894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63872AB-D29A-42A7-B412-F250D4CED894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B6E2F9-17AB-4ACC-B33B-AFE1CDF36CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B6E2F9-17AB-4ACC-B33B-AFE1CDF36CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B6E2F9-17AB-4ACC-B33B-AFE1CDF36CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B6E2F9-17AB-4ACC-B33B-AFE1CDF36CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
